@@ -1,0 +1,24 @@
+{
+  "name": "Magic-Mirror-Module-DeepMirror",
+  "description": "Module for the Magic Mirror.",
+  "version": "0.2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santanachia/MMM-DeepMirror"
+  },
+  "keywords": [
+    "magic mirror",
+    "smart mirror",
+    "module"
+  ],
+  "author": "Marcin Bielecki",
+  "contributors": [
+    "https://github.com/santanachia/MMM-DeepMirror/graphs/contributors"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/santanachia/MMM-DeepMirror/issues"
+  },
+  "homepage": "https://github.com/santanachia/MMM-DeepMirror#readme",
+  "dependencies": {}
+}
